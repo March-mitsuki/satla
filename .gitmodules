@@ -1,0 +1,6 @@
+[submodule "satla-frontend"]
+	path = satla-frontend
+	url = https://github.com/March-mitsuki/satla-frontend.git
+[submodule "satla-backend"]
+	path = satla-backend
+	url = https://github.com/March-mitsuki/satla-backend.git
